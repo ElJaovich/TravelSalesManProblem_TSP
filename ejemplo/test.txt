@@ -1,0 +1,12 @@
+NAME: minipoints
+COMMENT: Length 25
+TYPE: TOUR
+DIMENSION: 5
+TOUR_SECTION
+1 
+2 
+2 
+7 
+8 
+-1
+EOF
